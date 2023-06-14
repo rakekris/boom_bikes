@@ -18,7 +18,7 @@ In such an attempt, Boom Bikes aspires to understand the demand for shared bikes
 
 We will be using multi-linear regression model to come with prediction to the above business case. End output of the model is to identify key features contributing significantly towards explaining the demand of the shared bikes. So that this can be imbibed by the Boom bikes to enhance their business.
 
-For this case study we are using day data for all bike rentals for the year 2018 and 2019 and a data dictionary.
+For this use case we are using day data for all bike rentals for the year 2018 and 2019 and a data dictionary.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
